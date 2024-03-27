@@ -1,9 +1,4 @@
 Class : OSSProj    
-Date : 20240327    
-
-Time : 18:00
-i want to ...
-i need to,,,,
 
 
 # 과목명: 오픈소스소프트웨어프로젝트(2024-1-OSSProj)
