@@ -1,5 +1,5 @@
 Class : OSSProj    
-
+Practice git
 
 # 과목명: 오픈소스소프트웨어프로젝트(2024-1-OSSProj)
 
